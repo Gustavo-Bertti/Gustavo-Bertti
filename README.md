@@ -1,7 +1,7 @@
 ### Oi eu sou o Bertti!!
 <img width="300 em" src="https://pbs.twimg.com/profile_banners/2593408910/1615754273/600x200"/>
 
-- 🔭 Atualmente estou estudando sobre programação tanto front-end e back-end.
+- 🔭 Atualmente estou estudando sobre programação em um curso técnico público tanto back-end e front-end.
 - 🌱 Crescendo meu conhecimento sobre a programação.
 - 📫 Contate-me no email: bertti.dev@gmail.com
 - 😃 Gênero: masculino.
