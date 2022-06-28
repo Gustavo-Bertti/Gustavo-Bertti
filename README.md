@@ -39,12 +39,12 @@
   <summary>
   
   <strong>
-    📋-Meus objetivos para 2021.
+    📋-Meus objetivos para 2022.
   </strong>
   </summary>
   <ul>
   <li>☑️-terminar curso de Java Script avançado.</li> 
   <li>☑️-passar para o terceiro ano do ensino médio.</li> 
-  <li>☑️-terminar curso de programação da udemy do básico ao avançado.</li> 
+  <li>☑️-terminar curso de técnico da Etec desenvolvimento de sistemas.</li>
 </ul>
   </details>
