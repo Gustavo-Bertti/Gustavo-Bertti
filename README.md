@@ -7,7 +7,7 @@
 - 😇 Atualmente tenho 18 anos.
 
 
-<hr style="background-color: red"/>
+<hr/>
 
 
 <div style="display: inline_block"><br>
