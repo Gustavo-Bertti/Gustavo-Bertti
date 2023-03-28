@@ -5,6 +5,11 @@
 - 📫 Contate-me no email: bertti.dev@gmail.com
 - 😃 Gênero: masculino.
 - 😇 Atualmente tenho 18 anos.
+
+<style>
+hr{
+background-color="Red"}
+</style>
 <hr background="Red"/>
 
 
