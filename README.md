@@ -6,11 +6,8 @@
 - 😃 Gênero: masculino.
 - 😇 Atualmente tenho 18 anos.
 
-<style>
-hr{
-background-color="Red"}
-</style>
-<hr background="Red"/>
+
+<hr style="background-color: red"/>
 
 
 <div style="display: inline_block"><br>
