@@ -1,6 +1,6 @@
 ### Oi eu sou o Bertti!!
 - 🔭 Estou no 1 Semestre de ADS-FIAP
-- 🔭 Atualmente estou estudando sobre programação em um curso técnico público tanto back-end e front-end.
+- 🔭 Atualmente estou estudando sobre ADS na FIAP e curso técnico tanto back-end e front-end.
 - 🌱 Crescendo meu conhecimento sobre a programação.
 - 📫 Contate-me no email: bertti.dev@gmail.com
 - 😃 Gênero: masculino.
