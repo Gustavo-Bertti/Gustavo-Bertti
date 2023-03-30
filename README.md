@@ -7,7 +7,7 @@
 - 😇 Atualmente tenho 18 anos.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Bertti&show_icons=true)"
-<img align="left" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Bertti&layout=compact" />
+<img align="right" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Bertti&layout=compact" />
 
 
 
