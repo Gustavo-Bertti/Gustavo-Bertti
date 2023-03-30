@@ -5,9 +5,11 @@
 - 📫 Contate-me no email: bertti.dev@gmail.com
 - 😃 Gênero: masculino.
 - 😇 Atualmente tenho 18 anos.
+------------->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Bertti&show_icons=true)"
-<img  width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Bertti&layout=compact" />
+<img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=Gustavo-Bertti&show_icons=true&theme=default" />
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Bertti&layout=compact" />
 
 
 
