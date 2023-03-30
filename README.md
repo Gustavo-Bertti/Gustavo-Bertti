@@ -4,7 +4,7 @@
 - 🌱 Crescendo meu conhecimento sobre a programação.
 - 📫 Contate-me no email: bertti.dev@gmail.com
 - 😃 Gênero: masculino.
-- 😇 Atualmente tenho 18 anos.
+- 😇 Atualmente tenho 18 anos.<br>
 ------------->
 
 <img align="left"  width="49%"  src="https://github-readme-stats.vercel.app/api?username=Gustavo-Bertti&show_icons=true&theme=default" />
@@ -13,7 +13,7 @@
 
 
 
-<br><div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Bertti-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bertti-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bertti-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
