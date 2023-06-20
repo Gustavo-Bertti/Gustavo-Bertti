@@ -9,7 +9,7 @@
 
 <img align="left"  width="49%"  src="https://github-readme-stats.vercel.app/api?username=Gustavo-Bertti&show_icons=true&theme=transparent" />
 
-<img align="left" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Bertti&hide_progress=false" />
+<img align="left" width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 
 
 
