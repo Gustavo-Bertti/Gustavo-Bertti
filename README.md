@@ -1,5 +1,5 @@
 ### Oi eu sou o Bertti!!
-- 🔭 Estou no 1 Semestre de ADS-FIAP
+- 🔭 Estou no 2 Semestre de ADS-FIAP
 - 🔭 Atualmente estou estudando sobre ADS na FIAP e curso técnico de DS(concluído).
 - 🌱 Crescendo meu conhecimento sobre a programação.
 - 📫 Contate-me no email: bertti.dev@gmail.com
