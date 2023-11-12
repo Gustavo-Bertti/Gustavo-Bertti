@@ -40,7 +40,7 @@
   </summary>
   <ul>
   <li>☑️-Avançar com cursos na Alura.</li> 
-  <li>☑️-passar no 1 semestre de ADS na FIAP.</li> 
-  <li>☑️-terminar curso de técnico da Etec desenvolvimento de sistemas.</li>
+  <li>☑️-passar no 2 semestre de ADS na FIAP.</li> 
+  
 </ul>
   </details>
