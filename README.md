@@ -4,7 +4,7 @@
 - 🌱 Crescendo meu conhecimento sobre a programação.
 - 📫 Contate-me no email: bertti.dev@gmail.com
 - 😃 Gênero: masculino.
-- 😇 Atualmente tenho 18 anos.<br>
+- 😇 Atualmente tenho 19 anos.<br>
 ------------->
 
 <img align="left"  width="49%"  src="https://github-readme-stats.vercel.app/api?username=Gustavo-Bertti&show_icons=true&theme=graywhite" />
