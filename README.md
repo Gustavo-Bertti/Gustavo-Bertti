@@ -13,12 +13,7 @@
 
 
 
-<div style="display: block">
-  <img align="center" alt="Bertti-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Bertti-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bertti-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bertti-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+
  <hr>
   </hr>
   <div style="display: inline_block"><br>
@@ -34,13 +29,5 @@
   <details open>
   <summary>
   
-  <strong>
-    📋-Meus objetivos para 2023.
-  </strong>
-  </summary>
-  <ul>
-  <li>☑️-Avançar com cursos na Alura.</li> 
-  <li>☑️-passar no 2 semestre de ADS na FIAP.</li> 
   
-</ul>
   </details>
