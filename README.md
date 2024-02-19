@@ -1,28 +1,25 @@
-### Oi eu sou o Bertti!!
-- 🔭 Estou no 3 Semestre de ADS-FIAP
-- 🔭 Atualmente estou estudando sobre ADS na FIAP e curso técnico de DS(concluído).
-- 🌱 Estagiário de Desenvolvedor.
-- 📫 Contate-me no email: bertti.dev@gmail.com
-- 😃 Gênero: masculino.
-- 😇 Atualmente tenho 19 anos.<br>
-------------->
+# Eiii, Seja bem vindo ao meu perfil do Git Hub 🙌🧑🏻‍💻
 
-<img align="left"  width="49%"  src="https://github-readme-stats.vercel.app/api?username=Gustavo-Bertti&show_icons=true&theme=graywhite" />
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Bertti&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Bertti&theme=buefy"/></td>
+    </tr>   
+</table>
+</center>  
 
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Bertti&layout=donut" />
+---
+
+Sou estagiário em desenvolvimento full stack, atuo na área desde 2024, estou me graduando em Análise e Desenvolvimento de Sistemas, e sou tecnico formado em Desenvolvimento de Sistemas.
+
+Sou apaixonado por aprender e desenvolver, para assim melhorar a experiencia dos meus usuarios.
+
+Apaixonado pelo universo Geek e a musculação.
+---
+
+Onde me encontrar? :mag:  
+<a href="www.linkedin.com/in/gustavo-bertti/"><img src="https://github.com/GabriPalmyro/GabriPalmyro/blob/main/linkedin.png" width="24"></img></a> [LinkedIn](www.linkedin.com/in/gustavo-bertti)  
 
 
 
-
- <hr>
-  </hr>
-  <div style="display: inline_block"><br>
-  
-  <div><br>
-   <a href="https://www.instagram.com/gxbertti/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://discord.gg/8Zhh6ydK" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-<a href = "mailto:bertti.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
-  </div>
- 
- 
