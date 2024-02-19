@@ -1,4 +1,4 @@
-# Eiii, Seja bem vindo ao meu perfil do Git Hub 🙌🧑🏻‍💻
+# Eiii, Seja bem vindo ao meu perfil do Git Hub 🧑🏻‍💻
 
 <center>
 <table>
