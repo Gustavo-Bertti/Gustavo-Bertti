@@ -13,7 +13,7 @@
 
 Sou estagiário em desenvolvimento full stack, atuo na área desde 2024, estou me graduando em Análise e Desenvolvimento de Sistemas, e sou tecnico formado em Desenvolvimento de Sistemas.
 
-Sou apaixonado por aprender e desenvolver, para assim melhorar a experiencia dos meus usuarios.
+Sou apaixonado por aprender e desenvolver.
 
 Apaixonado pelo universo Geek e a musculação.
 ---
