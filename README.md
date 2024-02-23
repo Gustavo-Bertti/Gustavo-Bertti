@@ -19,7 +19,7 @@ Sou apaixonado por aprender e desenvolver🚀.
 ---
 
 Onde me encontrar? :mag:  
-<a href="www.linkedin.com/in/gustavo-bertti/"><img src="https://github.com/GabriPalmyro/GabriPalmyro/blob/main/linkedin.png" width="24"></img></a> [LinkedIn](www.linkedin.com/in/gustavo-bertti)  
+<a href="www.linkedin.com/in/gustavo-bertti/"><img src="https://github.com/gustavo-bertti/gustavo-bertti/blob/main/linkedin.png" width="24"></img></a> [LinkedIn](www.linkedin.com/in/gustavo-bertti)  
 
 
 
