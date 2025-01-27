@@ -18,7 +18,7 @@ Passionate about the Geek universe and bodybuilding.
 I am passionate about learning and developing🚀.
 ---
 
-Onde me encontrar?
+You can find me on
 www.linkedin.com/in/gustavo-bertti
 
 
