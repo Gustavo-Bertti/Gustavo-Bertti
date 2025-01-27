@@ -1,4 +1,4 @@
-# Eiii, Seja bem vindo ao meu perfil do Git Hub 🧑🏻‍💻
+# Hey, welcome to my GitHub profile!
 
 <center>
 <table>
@@ -11,11 +11,11 @@
 
 ---
 
-Sou estagiário em desenvolvimento full stack, atuo na área desde 2024, estou me graduando em Análise e Desenvolvimento de Sistemas, e sou tecnico formado em Desenvolvimento de Sistemas.
+I am a junior developer, working professionally since 2024. I have a degree in Systems Analysis and Development, and a technical degree in Systems Development.
 
-Apaixonado pelo universo Geek e a musculação.
+Passionate about the Geek universe and bodybuilding.
 
-Sou apaixonado por aprender e desenvolver🚀.
+I am passionate about learning and developing🚀.
 ---
 
 Onde me encontrar?
